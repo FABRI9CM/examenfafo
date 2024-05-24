@@ -9,7 +9,7 @@ export default function Home() {
       <Navbar />
       <div className="relative z-8 p-6 text-white">
       <div className="p-8">
-        <h1>Bienvenido a mi página principal</h1>
+        <h1>Bienvenido </h1>
         </div>
         
         <p className="mt-4 text-lg">
